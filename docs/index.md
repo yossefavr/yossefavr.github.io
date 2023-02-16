@@ -2,7 +2,7 @@
 
 So this is me 20 years ago... but one of my favorite pics :-)
 
-![image](https://user-images.githubusercontent.com/118984487/213909651-c090f2ea-93b7-420c-a513-09a6d03bed4c.png)
+![image](https://avatars.githubusercontent.com/u/34806908?v=4)
 
 ## My repositories
 * [GitHub](https://github.com/ShulyAvraham)
